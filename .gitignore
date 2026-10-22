@@ -1,0 +1,8 @@
+# Local data: photo slugs are what keeps the photos private.
+tools/photos/
+tools/build/
+tools/out/
+tools/mapping.json
+tools/config.json
+app/assets/qr_list.json
+__pycache__/

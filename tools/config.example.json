@@ -1,0 +1,5 @@
+{
+  "base_url": "https://photos.example.com/p",
+  "host": "user@server",
+  "remote_dir": "/var/www/photos/p"
+}

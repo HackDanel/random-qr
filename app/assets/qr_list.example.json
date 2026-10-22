@@ -1,0 +1,5 @@
+[
+  {"id": "demo1", "title": "Пример 1", "url": "https://photos.example.com/p/demo1.jpg"},
+  {"id": "demo2", "title": "Пример 2", "url": "https://photos.example.com/p/demo2.jpg"},
+  {"id": "demo3", "title": "Пример 3", "url": "https://photos.example.com/p/demo3.jpg"}
+]
